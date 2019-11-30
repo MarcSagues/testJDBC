@@ -9,6 +9,7 @@ public class Main_2 extends JFrame{
     private JPanel panel1;
     private JButton butt_search;
     private JButton butt_edit;
+    int hola;
 
     public Main_2(){
         setContentPane(panel1);
