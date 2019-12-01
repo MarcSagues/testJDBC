@@ -29,6 +29,7 @@ public class Main_2 extends JFrame{
                 Search searchForm = new Search(c);
                 searchForm.pack();
                 searchForm.setSize(200,200);
+                searchForm.setBounds(300,300,500,500);
                 searchForm.setVisible(true);
             }
         });
