@@ -2,33 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7530e1f0-70d2-44e1-a946-12489063287e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/.idea/testJDBC.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Insert$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testJDBC/Insert$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Insert$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testJDBC/Insert$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Insert$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testJDBC/Insert$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Insert$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testJDBC/Insert$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Insert.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testJDBC/Insert.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/META-INF/testJDBC.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testJDBC/Main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testJDBC/Main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testJDBC/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Main_2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testJDBC/Main_2$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Main_2$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testJDBC/Main_2$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Main_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testJDBC/Main_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Search.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testJDBC/Search.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/testJDBC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testJDBC/testJDBC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/testJDBC/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/testJDBC/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/testJDBC/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/testJDBC/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/testJDBC/testJDBC.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main_2.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -122,6 +96,8 @@
       <workItem from="1574785774837" duration="4847000" />
       <workItem from="1575132505489" duration="888000" />
       <workItem from="1575139934318" duration="4719000" />
+      <workItem from="1575204082372" duration="19000" />
+      <workItem from="1575276792979" duration="275000" />
     </task>
     <servers />
   </component>
@@ -133,7 +109,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
