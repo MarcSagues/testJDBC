@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="PostgreSQLPortable-10.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/PostgreSQLPortable-10.1.1" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Downloads/PostgreSQLPortable-10.1.1" recursive="false" />
+  </library>
+</component>

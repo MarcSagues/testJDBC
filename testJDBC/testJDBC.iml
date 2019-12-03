@@ -16,5 +16,8 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="PostgreSQLPortable-10.1.1" level="project" />
+    <orderEntry type="library" name="PostgreSQLPortable-10.1" level="project" />
+    <orderEntry type="library" name="postgresql-42.0.0" level="project" />
   </component>
 </module>

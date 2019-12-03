@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7530e1f0-70d2-44e1-a946-12489063287e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/PostgreSQLPortable_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/PostgreSQLPortable_10_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/postgresql_42_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Main_2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testJDBC/Main_2$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Main_2$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testJDBC/Main_2$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Main_2$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testJDBC/Main_2$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Main_2$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testJDBC/Main_2$4.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Main_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testJDBC/Main_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Search.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testJDBC/Search.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testJDBC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/testJDBC.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,10 +38,11 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="119" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -103,7 +112,7 @@
       <workItem from="1575276792979" duration="275000" />
       <workItem from="1575283438702" duration="4171000" />
       <workItem from="1575298483769" duration="2773000" />
-      <workItem from="1575371146800" duration="2583000" />
+      <workItem from="1575371146800" duration="12455000" />
     </task>
     <servers />
   </component>
