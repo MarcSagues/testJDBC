@@ -12,3 +12,5 @@ git add . #tot
 git commit -m "Segon commit"
 git pull 
 git push
+#si no deixa:
+git merge
