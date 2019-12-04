@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7530e1f0-70d2-44e1-a946-12489063287e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/PostgreSQLPortable_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/PostgreSQLPortable_10_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/postgresql_42_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Main_2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testJDBC/Main_2$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Main_2$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testJDBC/Main_2$2.class" afterDir="false" />
@@ -13,7 +10,6 @@
       <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Main_2$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testJDBC/Main_2$4.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Main_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testJDBC/Main_2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Search.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testJDBC/Search.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testJDBC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/testJDBC.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +28,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Marc Sagués &lt;56753180+marcsagues@users.noreply.github.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1Qj74y6pVIuHQ1qb63zmAy8vGMS" />
@@ -39,14 +40,18 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="119" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/testJDBC (4)/testJDBC/src" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/Downloads/testJDBC (4)/testJDBC/src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/.." />
       <recent name="$PROJECT_DIR$/../../../../Projecte_BASE DE DADES" />
@@ -112,8 +117,16 @@
       <workItem from="1575276792979" duration="275000" />
       <workItem from="1575283438702" duration="4171000" />
       <workItem from="1575298483769" duration="2773000" />
-      <workItem from="1575371146800" duration="12455000" />
+      <workItem from="1575371146800" duration="26798000" />
     </task>
+    <task id="LOCAL-00001" summary="Funciona select">
+      <created>1575401628021</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575401628021</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,5 +144,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Funciona select" />
+    <option name="LAST_COMMIT_MESSAGE" value="Funciona select" />
   </component>
 </project>
