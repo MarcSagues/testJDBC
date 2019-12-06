@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7530e1f0-70d2-44e1-a946-12489063287e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Main_2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testJDBC/Main_2$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Main_2$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testJDBC/Main_2$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Main_2$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testJDBC/Main_2$3.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Main_2$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testJDBC/Main_2$4.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Main_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testJDBC/Main_2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Search.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testJDBC/Search.class" afterDir="false" />
@@ -117,7 +113,8 @@
       <workItem from="1575276792979" duration="275000" />
       <workItem from="1575283438702" duration="4171000" />
       <workItem from="1575298483769" duration="2773000" />
-      <workItem from="1575371146800" duration="26798000" />
+      <workItem from="1575371146800" duration="31604000" />
+      <workItem from="1575633125792" duration="7484000" />
     </task>
     <task id="LOCAL-00001" summary="Funciona select">
       <created>1575401628021</created>
@@ -126,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575401628021</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="funciona select nova pantalla">
+      <created>1575452728857</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575452728857</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +151,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Funciona select" />
-    <option name="LAST_COMMIT_MESSAGE" value="Funciona select" />
+    <MESSAGE value="funciona select nova pantalla" />
+    <option name="LAST_COMMIT_MESSAGE" value="funciona select nova pantalla" />
   </component>
 </project>
