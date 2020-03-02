@@ -3,12 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="7530e1f0-70d2-44e1-a946-12489063287e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Main_2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testJDBC/Main_2$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Main_2$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testJDBC/Main_2$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Main_2$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testJDBC/Main_2$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Main_2$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testJDBC/Main_2$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Main_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testJDBC/Main_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lupa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Main_2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Main_2$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Main_2$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Main_2$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Main_2.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/testJDBC/Search.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testJDBC/Search.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/previous_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/previous_2_opt.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,13 +55,16 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$USER_HOME$/Downloads/testJDBC (4)/testJDBC/src" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/.." />
       <recent name="$PROJECT_DIR$/../../../../Projecte_BASE DE DADES" />
       <recent name="$PROJECT_DIR$/../../../../Projecte BASE DE DADES" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/Downloads/testJDBC (4)/testJDBC/src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -119,7 +129,9 @@
       <workItem from="1575371146800" duration="31604000" />
       <workItem from="1575633125792" duration="13695000" />
       <workItem from="1575710073020" duration="15598000" />
-      <workItem from="1575803778292" duration="7450000" />
+      <workItem from="1575803778292" duration="16441000" />
+      <workItem from="1575888074301" duration="5279000" />
+      <workItem from="1575901872446" duration="4556000" />
     </task>
     <task id="LOCAL-00001" summary="Funciona select">
       <created>1575401628021</created>
@@ -142,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575643381934</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="es pot seleccionar dos o mes columnes i funciona">
+      <created>1575813358125</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575813358125</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,15 +184,26 @@
     <MESSAGE value="Funciona select" />
     <MESSAGE value="funciona select nova pantalla" />
     <MESSAGE value="funciona select en taula i detecta client,branch i staff" />
-    <option name="LAST_COMMIT_MESSAGE" value="funciona select en taula i detecta client,branch i staff" />
+    <MESSAGE value="es pot seleccionar dos o mes columnes i funciona" />
+    <option name="LAST_COMMIT_MESSAGE" value="es pot seleccionar dos o mes columnes i funciona" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$USER_HOME$/Downloads/testJDBC (4)/testJDBC/src/AfterSelect2.java</url>
-          <line>126</line>
+          <url>file://$USER_HOME$/Downloads/testJDBC (4)/testJDBC/src/AfterSelect.java</url>
+          <line>165</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/Downloads/testJDBC (4)/testJDBC/src/AfterSelect.java</url>
+          <line>279</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/Downloads/testJDBC (4)/testJDBC/src/AfterSelect.java</url>
+          <line>170</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
